@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+#site{
+    height: 60vh;
+    background-color: whitesmoke;
+}
+
+#configuration{
+    height: 40vh;
+    background-color: rgb(192, 226, 255);
+}
+
+ul{
+    padding: 20px;
+    border: 5px solid #00bfff;
+}
+
+
+div{
+    border: 1px solid black;
+    
+}
+
+.Horizontal{
+    display: inline-block;
+}
+.btncustom{
+    width: 100%;
+}
